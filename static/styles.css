@@ -1,0 +1,13 @@
+p {
+    border: 5px solid yellow;
+}
+
+.name {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.button {
+    background-color: yellow;
+}
+
